@@ -1,0 +1,35 @@
+#contact {
+	background-color: #beffe1;}
+#team{
+
+	margin-left:500px;
+}
+#homeHeading{
+
+	margin-left:-560px;
+    font-family: cursive;
+    font-size: 65px;
+}
+
+#homeHeading1{
+
+	margin-left: -340px;
+	margin-top: 10px;
+    font-family: cursive;
+    font-size: 65px;
+}
+#about{
+
+	font-style: cursive;
+	font-size: 100px;
+}
+#beavolun{
+	margin-top:90px;
+}
+#aboutus{
+	background-color:blue;
+	margin-top: -200px;
+}
+#team{
+	margin-left: 70px;
+}
