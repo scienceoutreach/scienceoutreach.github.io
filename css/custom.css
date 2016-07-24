@@ -7,7 +7,7 @@
 #homeHeading{
 
 	margin-left:-560px;
-    font-family: cursive;
+    font-family: 'Lora', serif; 
     font-size: 65px;
 }
 
@@ -15,7 +15,7 @@
 
 	margin-left: -340px;
 	margin-top: 10px;
-    font-family: cursive;
+    font-family: 'Lora', serif;
     font-size: 65px;
 }
 #about{
@@ -31,15 +31,21 @@
 	margin-top: -200px;
 }
 #team{
-	margin-left: 70px;
+margin-left: 577px;
+margin-top: -94px;
 }
 /*.col-lg-4{
 	width: 16.333333%;
 }*/
 #teampost{
-	margin-right: 132px;
+	margin-right: 20px;
 }
 #imagepos{
 
 	margin-left: 32px;
+}
+#team1{
+	margin-left: -238px;
+    margin-top: -118px;
+    margin-right: 139px;
 }
