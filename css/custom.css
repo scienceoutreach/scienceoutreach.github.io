@@ -1,59 +1,15 @@
-#contact {
-	background-color: #beffe1;}
-#team{
-
-	margin-left:500px;
-}
-#homeHeading{
-
-	margin-left:-560px;
-    font-family: 'Lora', serif; 
-    font-size: 65px;
-}
-
-#homeHeading1{
-
-	margin-left: -340px;
-	margin-top: 10px;
-    font-family: 'Lora', serif;
-    font-size: 65px;
-}
-#about{
-
+#bridging .lead{
+	font-size: 120px;
 	font-style: cursive;
-	font-size: 100px;
 }
-#beavolun{
-	margin-top:90px;
+h1#head1{
+	font-size:40px;
+	color: white;
+	font-family: 'Ranga', cursive;
 }
-#aboutus{
-	background-color:blue;
-	margin-top: -200px;
+p#bridging{
+	font-size: 30px;
+	color: #00ff00;
+	color: white;
+	font-family: 'Ranga', cursive;
 }
-#team{
-margin-left: 577px;
-margin-top: -94px;
-}
-/*.col-lg-4{
-	width: 16.333333%;
-}*/
-#teampost{
-	margin-right: 20px;
-}
-#imagepos{
-
-	margin-left: 32px;
-}
-#team1{
-	margin-left: -238px;
-    margin-top: -118px;
-    margin-right: 139px;
-}
-#imagepost1{
-
-	margin-left: 207px;
-}
-#teampost1{
-	margin-right: -327px;
-}
-
